@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|c:\\users\\luis\\desktop\\appdev_act\\mvsluis\\mvsluis\\views\\home\\luis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|solutionrelative:mvsluis\\views\\home\\luis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|c:\\users\\luis\\desktop\\appdev_act\\mvsluis\\mvsluis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|solutionrelative:mvsluis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|c:\\users\\luis\\desktop\\appdev_act\\mvsluis\\mvsluis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|solutionrelative:mvsluis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|c:\\users\\luis\\desktop\\appdev_act\\mvsluis\\mvsluis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB638A29-10A5-4937-D30A-E948FEB784B3}|MVSLuis\\MVSLuis.csproj|solutionrelative:mvsluis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVSLuis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVSLuis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:23:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Luis.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Home\\Luis.cshtml",
+              "RelativeDocumentMoniker": "MVSLuis\\Views\\Home\\Luis.cshtml",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Home\\Luis.cshtml",
+              "RelativeToolTip": "MVSLuis\\Views\\Home\\Luis.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:21:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVSLuis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVSLuis\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:07:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVSLuis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luis\\Desktop\\AppDev_Act\\MVSLuis\\MVSLuis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVSLuis\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:03:41.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
