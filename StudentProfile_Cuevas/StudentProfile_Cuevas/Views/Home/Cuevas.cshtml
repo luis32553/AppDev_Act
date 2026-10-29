@@ -1,0 +1,32 @@
+﻿@section Styles {
+	<link rel="stylesheet" href="~/css/stylvas.css" />
+}
+
+<div class="outermost">
+	<div class="title">
+		<h4>STUDENT PROFILE</h4>
+		<h5>Polytechnic University of the Philippines</h5>
+	</div>
+
+@{
+	string name = "Cuevas, Marhissa R.";
+	string id = "2025-02680-MN-0";
+	string course = "BS Computer Science";
+	string contact = "0921-577-6136";
+	string email = "maicuevas23@gmail.com";
+}
+
+<div class="outer">
+	<div class="photo">
+		<img src="~/student picture.jpg" alt="Student Photo" />
+	</div>
+
+	<div class="info">
+		<p><span class="bold">Name:</span> @name</p>
+		<p><span class="bold">Student ID:</span> @id</p>
+		<p><span class="bold">Course:</span> @course</p>
+		<p><span class="bold">Contact:</span> @contact</p>
+		<p><span class="bold">Email:</span> @email</p>
+	</div>
+</div>
+</div>

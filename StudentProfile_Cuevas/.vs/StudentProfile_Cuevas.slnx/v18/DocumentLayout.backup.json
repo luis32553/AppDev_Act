@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|c:\\users\\maicu\\onedrive\\desktop\\studentprofile_cuevas\\studentprofile_cuevas\\wwwroot\\css\\stylvas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|solutionrelative:studentprofile_cuevas\\wwwroot\\css\\stylvas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|c:\\users\\maicu\\onedrive\\desktop\\studentprofile_cuevas\\studentprofile_cuevas\\views\\home\\cuevas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|solutionrelative:studentprofile_cuevas\\views\\home\\cuevas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|c:\\users\\maicu\\onedrive\\desktop\\studentprofile_cuevas\\studentprofile_cuevas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|solutionrelative:studentprofile_cuevas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|c:\\users\\maicu\\onedrive\\desktop\\studentprofile_cuevas\\studentprofile_cuevas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDE85E7-73D3-A6EC-CCFE-84F4B1BE937D}|StudentProfile_Cuevas\\StudentProfile_Cuevas.csproj|solutionrelative:studentprofile_cuevas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stylvas.css",
+              "DocumentMoniker": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\wwwroot\\css\\stylvas.css",
+              "RelativeDocumentMoniker": "StudentProfile_Cuevas\\wwwroot\\css\\stylvas.css",
+              "ToolTip": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\wwwroot\\css\\stylvas.css",
+              "RelativeToolTip": "StudentProfile_Cuevas\\wwwroot\\css\\stylvas.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-07T07:14:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentProfile_Cuevas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentProfile_Cuevas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T05:55:27.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuevas.cshtml",
+              "DocumentMoniker": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Views\\Home\\Cuevas.cshtml",
+              "RelativeDocumentMoniker": "StudentProfile_Cuevas\\Views\\Home\\Cuevas.cshtml",
+              "ToolTip": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Views\\Home\\Cuevas.cshtml",
+              "RelativeToolTip": "StudentProfile_Cuevas\\Views\\Home\\Cuevas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T05:54:45.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentProfile_Cuevas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maicu\\OneDrive\\Desktop\\StudentProfile_Cuevas\\StudentProfile_Cuevas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentProfile_Cuevas\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:53:00.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
